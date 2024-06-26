@@ -1,0 +1,77 @@
+
+
+
+
+h1{
+
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: center;
+
+    text-shadow: 4px 5px 2px #e2f10b;
+
+
+
+}
+
+
+
+p{
+
+
+    font-weight: bold;
+    font-style: italic;
+
+    text-decoration: line-through;
+    text-transform: uppercase;
+
+
+    line-height: 2rem;
+    letter-spacing: 0.2rem;
+    word-spacing: 4rem;
+
+
+
+}
+
+
+
+
+a{
+    font-size: 4rem;
+
+}
+a:hover{
+    background-color: red;
+}
+
+/* a:link{
+    color: plum;
+}
+a:visited{
+    color: red;
+} */
+
+
+
+input{
+    cursor: pointer;
+}
+input:active{
+    background-color:blue;
+    
+}
+input:focus{
+    background-color: plum;
+} 
+
+
+
+/* :hover
+::first-letter
+::first-line
+:active
+:focus
+:visited
+:link  */
